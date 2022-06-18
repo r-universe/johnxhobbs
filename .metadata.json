@@ -1,0 +1,10 @@
+[
+  {
+    "package": "git4r",
+    "oncran": true
+  },
+  {
+    "package": "paletteknife",
+    "oncran": true
+  }
+]
